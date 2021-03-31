@@ -1,0 +1,17 @@
+.greeting{
+    padding-top: 15%;
+    text-align: center;   
+}
+.greeting h1 {
+    font-size: xx-large;
+    padding-bottom: 3%;  
+}
+.greeting p {
+    padding-bottom: 3%;
+}
+#startQuiz{
+    margin: 3%;
+}
+#answers{
+    padding-top: 3%;
+}
